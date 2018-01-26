@@ -15,3 +15,13 @@ De Portfolio van Andre Rosa voor Applied Data Science
 ---
 
 ## 1. DataCamp <a name="DataCamp"></a>
+---
+
+## 2. Coursera <a name="Coursera"></a>
+---
+
+## 3. Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
+---
+
+## 4. Spark <a name="Spark"></a>
+---
