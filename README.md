@@ -54,7 +54,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) z
 ## 6. Project <a name="Project"></a>
 ---
 
-## 7. Workshop opdrachten <a name="Workshop_opdrachten"></a>
+## 7. Workshop opdrachten <a name="Opdrachten_workshops"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Calling%20Bullshit) vind je mijn calling bullshit opdracht. 
 * 1\. [Calling Bullshit](https://github.com/Andr3Rosa/Portfolio/blob/master/Calling%20Bullshit/Calling%20Bullshit.pdf)
 
