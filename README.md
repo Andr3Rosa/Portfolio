@@ -62,7 +62,7 @@ om de nieuwe database van de Haagese Hogeschool in Delft.
 
 
 Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwste database. 
-Het bestand is 500 mb groot en om veiligheidsredenen plaats ik de datbase niet op GitHub. 
+Het bestand is 500 mb groot en om veiligheidsredenen plaats ik het bestand niet op GitHub. 
 Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
 Datbasenaam: TCH_HAHO_DEL_FULL.bak
