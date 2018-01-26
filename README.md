@@ -57,3 +57,11 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) z
 ## 7. Workshop opdrachten <a name="Workshop_opdrachten"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Calling%20Bullshit) vind je mijn calling bullshit opdracht. 
 * 1\. [Calling Bullshit](https://github.com/Andr3Rosa/Portfolio/blob/master/Calling%20Bullshit/Calling%20Bullshit.pdf)
+
+* In de eerste opdracht wordt per categorie twee gevonden voorbeelden van bullshit uitgewerkt.
+* Voor opdracht twee moet je zelf geproduceerde bullshit opschrijven (min. vijf voorbeelden).
+* De derde opdracht gaat over het uitwerken van één voorbeeld uit het eerste onderdeel:
+  * Waarom is het bullshit?
+  * Hoe is de bullshit ontstaan?
+  * Wat voor consequenties heeft of kan het verspreiden van deze bullshit hebben?
+* Bij opdracht vier moet je aangeven wat je tegen het voorbeeld van opdracht 3 kan doen of hebt gedaan.  
