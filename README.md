@@ -44,7 +44,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark) zijn all
 ---
 
 ## 5. Presentaties <a name="Presentaties"></a>
-In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark) zijn al mijn presentaties te vinden.
+In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) zijn al mijn presentaties te vinden.
   * 1\. [Presentaties 22/09](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2009-22.pptx)
   * 2\. [Presentaties 03/11](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2011-03.gslides)
   * 3\. [Presentaties 24/11](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2011-24.gslides)
