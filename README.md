@@ -59,6 +59,22 @@ Introductie
 
 * Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen die in staat is om diagnoses en voorspellingen uit te voeren 
 om de nieuwe database van de Haagese Hogeschool in Delft.
+
+Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwste database. 
+Het bestand is 500 mb groot en om veiligheidsredenen plaats ik de datbase niet op GitHub. 
+Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
+Datbasenaam: TCH_HAHO_DEL_FULL.bak
+Vervolgens is er gekozen om een database verbinding te maken met deze database in Visual Studio 
+
+Microsoft Visual Studio Community 2017 
+Version 15.4.4
+VisualStudio.15.Release/15.4.4+27004.2009
+Microsoft .NET Framework
+Version 4.7.02556
+
+
+
+
 ---
 
 ## 7. Workshop opdrachten <a name="Opdrachten_workshops"></a>
