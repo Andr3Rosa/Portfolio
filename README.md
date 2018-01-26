@@ -11,3 +11,5 @@ De Portfolio van Andre Rosa voor Applied Data Science
 * 7\. [Opdrachten van de workshops](#Opdrachten_workshops)  
     * 7.1 [Bullshit in Data Science](#Bullshit)  
     * 7.2 [Visualisatie](#Visualisatie)  
+
+## 1. DataCamp <a name="DataCamp"></a>
