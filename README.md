@@ -63,7 +63,7 @@ om de nieuwe database van de Haagese Hogeschool in Delft.
 
 ## 7. Workshop opdrachten <a name="Opdrachten_workshops"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Calling%20Bullshit) vind je mijn calling bullshit opdracht. 
-* 1\. [Calling Bullshit](https://github.com/Andr3Rosa/Portfolio/blob/master/Calling%20Bullshit/Calling%20Bullshit.pdf)
+* 1\. [Calling Bullshit](https://github.com/Andr3Rosa/Portfolio/blob/master/Calling%20Bullshit/Calling%20Bullshit.pdf) <a name="Bullshit"></a>
 
 * In de eerste opdracht wordt per categorie twee gevonden voorbeelden van bullshit uitgewerkt.
 * Voor opdracht twee moet je zelf geproduceerde bullshit opschrijven (min. vijf voorbeelden).
