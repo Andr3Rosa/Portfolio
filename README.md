@@ -25,3 +25,12 @@ De Portfolio van Andre Rosa voor Applied Data Science
 
 ## 4. Spark <a name="Spark"></a>
 ---
+
+## 5. Presentaties <a name="Presentaties"></a>
+---
+
+## 6. Project <a name="Project"></a>
+---
+
+## 7. Workshop opdrachten <a name="Workshop_opdrachten"></a>
+---
