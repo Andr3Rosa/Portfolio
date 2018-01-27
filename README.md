@@ -41,7 +41,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Exploratory%20D
 * 5\. [Missing Values](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/5.%20Missing%20Values/5%2BMissing%2BValues.md)
 
 * 6\. [Outliers](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/6.%20Outliers/6%20Outliers.md)
-* [Plot 11](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/6.%20Outliers/output_8_1.png)
+        * [Plot 11](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/6.%20Outliers/output_8_1.png)
 * 7\. [Data Transformation](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/7.%20Data%20Transformation/7%20Data%20Transformation.md)
 * 8\. [Creating Variables](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/8.%20Creating%20variables/8%2BCreating%2BVariables.md)
 * 9\. [Evaluate](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/9.%20Evaluate/9%2BEvaluate.md)
