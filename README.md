@@ -38,7 +38,8 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Exploratory%20D
 	* [Plot 9](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/output_26_4.png)
 	* [Plot 10](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/output_28_3.png)
 
-* 5\. [Missing Values](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/5.%20Missing%20Values/5%2BMissing%2BValues.md	
+* 5\. [Missing Values](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/5.%20Missing%20Values/5%2BMissing%2BValues.md)
+
 * 6\. [Outliers](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/6.%20Outliers/6%20Outliers.md)
         * [Plot 11]
 (https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/6.%20Outliers/output_8_1.png)
