@@ -27,7 +27,8 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Exploratory%20D
 * 3\. [Univariate Analysis](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/3.%20Univariate%20Analysis/3%20Univariate%20Analysis.md)
      * [Plot 1](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/3.%20Univariate%20Analysis/output_6_0.png)
 * 4\. [Bivariate Analysis](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/4%20Bivariate%20Analysis.md)
-        * [Plot 1](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/output_5_0.png)
+        
+	* [Plot 1](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/output_5_0.png)
 	* [Plot 2](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/output_8_3.png)
 	* [Plot 3](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/output_11_3.png)
 	* [Plot 4](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/output_13_0.png)
