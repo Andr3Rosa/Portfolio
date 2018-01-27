@@ -103,8 +103,10 @@ Version 4.7.02556
 
 [Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqltest.py) vind je een snippet van de verbinding met de database in Visual Studio. 
 
-
-
+* [x] Connectie Linqpad 5 <br />
+Verbinding maken met de lokale database.
+Linqpad is een krachtige tool waarmee je heel snel een output ontvangt met SQL en .Net. <br />
+[Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Queries%20Database/Ophaalfuncties) vind je de map met een aantal standaard ophaalfuncties voor de database. 
 
 
 
