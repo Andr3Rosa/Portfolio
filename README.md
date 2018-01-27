@@ -89,7 +89,7 @@ Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwste database.
 Het bestand is 500 mb groot en om veiligheidsredenen plaats ik het bestand niet op GitHub. 
 Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
-Datbasenaam: TCH_HAHO_DEL_FULL.bak
+Databasenaam: TCH_HAHO_DEL_FULL.bak
 
 * [x] Restoren Database <br />
 Zorgen dat de Database restored is en opgeslagen als lokale database
@@ -99,11 +99,9 @@ Version 14.0.17199.0 <br />
 * [x] Connectie Database <br />
 Verbinding maken met de database in de ontwwikkelomgeving. <br />
 Microsoft Visual Studio Community 2017 <br />
-Version 15.4.4 <br />
-VisualStudio.15.Release/15.4.4+27004.2009 <br />
-Microsoft .NET Framework <br />
 Version 4.7.02556
 
+[Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqltest.py) vind je een snippet van de verbinding met de database in Visual Studio. 
 
 
 
