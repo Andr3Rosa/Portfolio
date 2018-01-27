@@ -23,6 +23,7 @@ De Portfolio van Andre Rosa voor Applied Data Science
 ## 3. Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Exploratory%20Data%20Analysis) zijn alle resultaten van Exploratory Data Analysis te vinden.
 * 1\. [Checking data edges](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/1.%20Checking%20Data%20Edges/1%2BChecking%2BData%2BEdges.md)
+* [Plot 1] https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/3.%20Univariate%20Analysis/output_6_0.png
 * 2\. [Identifying variables](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/2.%20Identifying%20variables/2%2BIdentifying%2Bvariables.md)
 * 3\. [Univariate Analysis](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/3.%20Univariate%20Analysis/3%20Univariate%20Analysis.md)
 * 4\. [Bivariate Analysis](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/4.%20Bivariate%20analysis/4%20Bivariate%20Analysis.md)
