@@ -21,6 +21,16 @@ De Portfolio van Andre Rosa voor Applied Data Science
 ---
 
 ## 3. Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
+In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Exploratory%20Data%20Analysis) zijn alle resultaten van Exploratory Data Analysis te vinden.
+* 1\. [Checking data edges](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/1.%20Checking%20Data%20Edges/1%2BChecking%2BData%2BEdges.md)
+* 2\. [Identifying variables](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/2.%20Identifying%20variables/2%2BIdentifying%2Bvariables.md)
+* 3\. [Univariate Analysis](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/3.%20Univariate%20Analysis/3%20Univariate%20Analysis.md)
+* 4\. [Bivariate Analysis](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/4%2BBivariate%2BAnalysis/4%20Bivariate%20Analysis.md)
+* 5\. [Missing Values](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/5%2BMissing%2BValues.md)
+* 6\. [Outliers](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/6%2BOutliers/6%20Outliers.md)
+* 7\. [Data Transformation](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/7%2BData%2BTransformation/7%20Data%20Transformation.md)
+* 8\. [Creating Variables](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/8%2BCreating%2BVariables.md)
+* 9\. [Evaluate](https://github.com/martijnBennis/smart_building/blob/master/Python%20notebooks/9%2BEvaluate.md)
 ---
 
 ## 4. Spark <a name="Spark"></a>
