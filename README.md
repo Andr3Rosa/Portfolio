@@ -93,9 +93,9 @@ Datbasenaam: TCH_HAHO_DEL_FULL.bak
 
 * [x] Restoren Database
 Microsoft SQL Server Management Studio	<br />					
-Version 14.0.17199.0
+Version 14.0.17199.0 <br />	
 
-* [x] Connectie Database
+* [x] Connectie Database 
 
 Vervolgens is er gekozen om een database verbinding te maken met deze database in Visual Studio. <br />
 Microsoft Visual Studio Community 2017 <br />
