@@ -91,12 +91,20 @@ Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
 Datbasenaam: TCH_HAHO_DEL_FULL.bak
 
+* [x] Restoren Database
+Microsoft SQL Server Management Studio	<br />					
+Version 14.0.17199.0
+
+* [x] Connectie Database
+
 Vervolgens is er gekozen om een database verbinding te maken met deze database in Visual Studio. <br />
 Microsoft Visual Studio Community 2017 <br />
 Version 15.4.4 <br />
 VisualStudio.15.Release/15.4.4+27004.2009 <br />
 Microsoft .NET Framework <br />
 Version 4.7.02556
+
+
 
 
 
