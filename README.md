@@ -92,7 +92,7 @@ Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 Databasenaam: TCH_HAHO_DEL_FULL.bak
 
 * [x] Restoren Database <br />
-Zorgen dat de Database restored is en opgeslagen als lokale database
+Zorgen dat de Database restored is en opgeslagen als lokale database.  <br />
 Microsoft SQL Server Management Studio	<br />					
 Version 14.0.17199.0 <br />	
 
