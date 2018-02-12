@@ -87,20 +87,21 @@ Introductie
 
 * Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
 
-* Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen die in staat is om diagnoses en voorspellingen uit te voeren 
+* Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen wat in staat is om diagnoses en voorspellingen uit te voeren 
 met de nieuwe database van de Haagese Hogeschool in Delft.
 
 
-Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwste database. 
+Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwe database (augustus 2016). 
 Het bestand is 500 mb groot en om veiligheidsredenen plaats ik het bestand niet op GitHub. 
 Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
 Databasenaam: TCH_HAHO_DEL_FULL.bak
 
 * [x] Restoren Database <br />
-Zorgen dat de Database restored is en opgeslagen als lokale database.  <br />
+De database restoren met MSSMS. De database opslaan als lokale database.  <br />
 Microsoft SQL Server Management Studio	<br />					
 Version 14.0.17199.0 <br />	
+[Resultaat]() 
 
 * [x] Connectie Database <br />
 Verbinding maken met de database in de ontwwikkelomgeving. <br />
