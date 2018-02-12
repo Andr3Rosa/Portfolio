@@ -67,6 +67,9 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark) zijn all
   * 13\. [json](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Tutorials/13-json.md)
   * 14\. [csv2DtoList](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Tutorials/14-csv2DtoList.md)
   * 15\. [rdf](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Tutorials/15-rdf.md)
+* [Assigments](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Assignments)
+  * 1\. [Assignment 1](https://github.com/Andr3Rosa/Portfolio/blob/master/Spark/Assignments/assignment1.md)
+  * 2\. [Assignment 2](https://github.com/Andr3Rosa/Portfolio/blob/master/Spark/Assignments/assignment2.md)
 ---
 
 ## 5. Presentaties <a name="Presentaties"></a>
