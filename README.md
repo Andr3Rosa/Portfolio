@@ -49,7 +49,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Exploratory%20D
 
 ## 4. Spark <a name="Spark"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark) zijn alle resultaten van Spark te vinden.
-* 1\. [Tutorials](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Tutorials)
+* [Tutorials](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Tutorials)
   * 1\. [rdd-collection](https://github.com/Andr3Rosa/Portfolio/blob/master/Spark/Tutorials/1-rdd-collection.md)
   * 2\. [rdd-file](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Tutorials/2-rdd-file.md)
   * 3\. [Actions](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark/Tutorials/3-actions.md)
