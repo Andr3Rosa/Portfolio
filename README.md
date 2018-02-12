@@ -15,7 +15,7 @@ De Portfolio van Andre Rosa voor Applied Data Science
 ---
 
 ## 1. DataCamp <a name="DataCamp"></a>
----
+In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp) zijn alle resultaten van Datacamp te vinden.
 
 ## 2. Coursera <a name="Coursera"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera) zijn alle resultaten van Coursera te vinden.
@@ -23,6 +23,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera) zijn 
   * [Week2](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera/Week%202)
   * [Week3](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera/Week%203)
   * [Week6](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera/Week%206)
+  
 ## 3. Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Exploratory%20Data%20Analysis) zijn alle resultaten van Exploratory Data Analysis te vinden.
 * 1\. [Checking data edges](https://github.com/Andr3Rosa/Portfolio/blob/master/Exploratory%20Data%20Analysis/1.%20Checking%20Data%20Edges/1%2BChecking%2BData%2BEdges.md)
