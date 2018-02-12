@@ -88,7 +88,7 @@ Introductie
 * Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
 
 * Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen die in staat is om diagnoses en voorspellingen uit te voeren 
-om de nieuwe database van de Haagese Hogeschool in Delft.
+met de nieuwe database van de Haagese Hogeschool in Delft.
 
 
 Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwste database. 
