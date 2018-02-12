@@ -75,11 +75,11 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Spark) zijn all
 
 ## 5. Presentaties <a name="Presentaties"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) zijn al mijn presentaties te vinden.
-  * 1\. [Presentaties 22/09](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2009-22.pptx)
-  * 2\. [Presentaties 11/03](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2011-03.gslides)
-  * 3\. [Presentaties 24/11](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2011-24.gslides)
-  * 4\. [Presentaties 08/12](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2012-08.gslides)
-  * 5\. [Presentaties 26/01](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2012-08.gslides)
+  * 1\. [Presentatie 22/09](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2009-22.pptx)
+  * 2\. [Presentatie 11/03](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2011-03.gslides)
+  * 3\. [Presentatie 24/11](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2011-24.gslides)
+  * 4\. [Presentatie 08/12](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2012-08.gslides)
+  * 5\. [Presentatie 26/01](https://github.com/Andr3Rosa/Portfolio/blob/master/Presentaties/Presentatie%2012-08.gslides)
 ---
 
 ## 6. Project <a name="Project"></a>
