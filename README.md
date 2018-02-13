@@ -144,11 +144,11 @@ Version 5.26.01  <br />
 [Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Ophaalfuncties) vind je de standaard queries voor de database. 
 
 Nu we data kunnen ophalen is het belangrijk om te weten wat voor data er tot onze beschikking is. Om daarbij te helpen is er een tabel genaamd [punten] in de database die informatie levert over de sensorren in het gebouw. 
-[Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Tabel_Punten_TCH_HAHO_DEL%20(807).xlsx) vind je het alle punten in een excel bestand.
+[Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Tabel_Punten_TCH_HAHO_DEL%20(807).xlsx) vind je het alle data van de tabel punten in een excel bestand.
 
 | Punt_ID    | Project    | Onderstation    | Volgnummer    | Label    | Omschrijving    | 
 | :--------: | :--------: | :-------------: | :-----------: | :------: | :-------------: |
-|      1     |     2      |        3        |      4        |    5     |       6         |
+|      1     |     Haho_del      |        1007        |      5        |    GRFSYS     |       Luchtkwaliteit         |
 
 ---
 
