@@ -192,6 +192,7 @@ AangevuldeData: Boolean <br />
 DataGemist: Boolean <br />
 IntervalGewijzigd: Boolean <br />
 
+Om de data te visualiseren is het alleen relevant om de data uit de kolommen 'waarde' en 'systeemtijd' te plotten. De volledige stuk code zie je [hier]()
 
 ##### [x] Pandas gebruiken <br />
 
