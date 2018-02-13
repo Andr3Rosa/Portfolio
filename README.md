@@ -200,7 +200,20 @@ Om de data te visualiseren is het alleen relevant om de data uit de kolommen 'wa
 ##### [x] Data Plotten
 
 
+### Data Cleaning  <br />
+De plots geven een goed beeld van de data alleen hoe compleet en bruikbaar is het? Het doel is om 1 CSV bestand te maken die compleet is en alle data bevat van 1 lokaal over een bepaalde tijd. Laten we lokaal 1.062 als voorbeeld nemen. Het lokaal bevat 9 sensoren. Begint en eindigt de systeemtijd op hetzelfde moment? En mist de tabel data? Zo ja, wanneer en voor hoe lang? Dit zijn vragen die ik probeer te beantwoorden. 
 
+| Naam Sensor    | Eerste regel Systeemtijd    | Laatste regel Systeemtijd    | DataGemist?    |
+| :--------: | :--------: | :-------------: | :-----------: |
+|      Bedrijfssituatie     |     25-10-2016 10:56:00      |        7-11-2017 08:36:00       |      True        |
+|      DauwpuntsTemperatuur     |     31-10-2016 21:08:00      |        7-11-2017 08:36:00       |      True        |
+|      GewenstLuchtdebiet     |     25-10-2016 10:56:00      |        7-11-2017 08:40:00       |      True        |
+|      Lichtnivo     |     31-10-2016 21:08:00      |        7-11-2017 08:36:00       |      True        |
+|      Luchtdebiet     |     25-10-2016 10:56:00      |        7-11-2017 08:40:00       |      True        |
+|      Luchtkwaliteit     |     25-10-2016 10:56:00      |        7-11-2017 08:36:00       |      True        |
+|      RelatiefRuimtevocht     |     31-10-2016 21:08:00      |        7-11-2017 08:36:00       |      True        |
+|      RuimteTemperatuur     |     25-10-2016 10:56:00      |        7-11-2017 08:36:00       |      True        |
+|      VerlichtingGangzijde     |     31-10-2016 21:08:00      |        7-11-2017 08:36:00       |      True        |
 
 
 
