@@ -192,7 +192,7 @@ AangevuldeData: Boolean <br />
 DataGemist: Boolean <br />
 IntervalGewijzigd: Boolean <br />
 
-Om de data te visualiseren is het alleen relevant om de data uit de kolommen 'waarde' en 'systeemtijd' te plotten. De volledige stuk code zie je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqlQuery.py). Het resultaat van de code is een plot van de data. Hier vind je de meeste [plots]()
+Om de data te visualiseren is het alleen relevant om de data uit de kolommen 'waarde' en 'systeemtijd' te plotten. De volledige stuk code zie je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqlQuery.py). Het resultaat van de code is een plot van de data. Hier vind je de meeste [plots](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Visualisatie) van alle 8 lokalen.
 
 ##### [x] Pandas gebruiken <br />
 
