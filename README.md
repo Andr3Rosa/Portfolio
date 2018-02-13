@@ -157,7 +157,13 @@ Als we naar de data kijken dan is het alleen duidelijk om wat voor soort sensor 
 
 Op dit punt heb ik Jan-Dirk gevraagd of hij een lijst kon opvragen bij de huidige systeembeheerders met de lokaalnamen per sensor. Het volledige bestand vind je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Priva%20Datapunten%20Alle%20Lokalen.xlsx). <br /> 
 
-Op dit moment kunnen we dus data ophalen en weten we welke tabelnaam bij welke sensor hoort, en welke sensor bij welk lokaal. Met Jan-Dirk is afgesproken dat ik 8 lokalen selecteer die gebruikt zullen worden als test-data. De reden hierachter is dat deze lokalen extra sensorren hebben gekregen, dus er is extra informatie beschikbaar waarmee wellicht problemen makkelijker aan het licht komen. 
+Op dit moment kunnen we dus data ophalen en weten we welke tabelnaam bij welke sensor hoort, en welke sensor bij welk lokaal. Met Jan-Dirk is afgesproken dat ik 8 lokalen selecteer die gebruikt zullen worden als test-data. De reden hierachter is dat deze lokalen extra sensoren hebben gekregen, dus er is extra informatie beschikbaar waarmee problemen wellicht makkelijker aan het licht komen.
+
+Aangezien het bestand hier boven uit meer dan 700 sensoren bestand, is het de bedoeling dat we de 8 lokalen eruit filteren. Dat bestand vind je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Priva%20Datapunten%20Test%20Lokalen.xlsx) In totaal zijn het 135 sensoren verdeeld over 8 lokalen. Hier onder een samenvatting:
+
+| Lokaal    | Aantal Sensoren    |
+| :--------: | :--------: |
+|      1.062     |     9     |
 
 ---
 
