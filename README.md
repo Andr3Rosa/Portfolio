@@ -117,7 +117,7 @@ Databasenaam: TCH_HAHO_DEL_FULL.bak
 
 Om te beginnen zullen we eerst het de database moeten restoren aan de hand van de backup. Dit doen we met Microsoft SQL Server Management Studio
 
-##### * [x] Restoren Database <br />
+##### [x] Restoren Database <br />
 De database restoren met MSSMS. De database opslaan als lokale database.  <br />
 Microsoft SQL Server Management Studio	<br />					
 Version 14.0.17199.0 <br />	
@@ -125,7 +125,7 @@ Version 14.0.17199.0 <br />
 
 Wanneer de database eenmaal restored is kunnen we een verbinding maken in Visual Studio
 
-##### * [x] Connectie Database <br />
+##### [x] Connectie Database <br />
 Verbinding maken met de database in de ontwwikkelomgeving. <br />
 Microsoft Visual Studio Community 2017 <br />
 Version 4.7.02556  <br />
@@ -137,7 +137,7 @@ In Visual Studio kost het aanzienlijk veel tijd om een project uit te voeren en 
 Linqpad is een tool waarmee je SQL en .Net code kan uitvoeren <br />
 De tijd die Linqpad nodig heeft om een query uit te voeren is veel korten dan Visual Studio. Aangezien er vele queries voor verschillende sensoren uitgevoerd zullen worden is dit een uitermate krachtige en geschikte tool om data op te halen. Bovendien kan de data die opgehaald word direct worden opgelagen in een excel bestand. <br />
 
-##### * [x] Connectie Linqpad 5 <br />
+##### [x] Connectie Linqpad 5 <br />
 Verbinding maken met de lokale database.<br />
 Version 5.26.01  <br />
 [Linqpad](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/VoorbeeldLinqpad.PNG) 
@@ -155,6 +155,7 @@ Als we naar de data kijken dan is het alleen duidelijk om wat voor soort sensor 
 | :--------: | :--------: | :-------------: | :-----------: | :------: | :-------------: |
 |      1     |     Haho_del      |        1007        |      5        |    GRFSYS     |       Luchtkwaliteit         |
 
+Op dit punt heb ik Jan-Dirk gevraagd of hij een lijst kon opvragen bij de huidige systeembeheerders met de lokaalnamen per sensor. Deze hebben 
 ---
 
 ## 7. Workshop opdrachten <a name="Opdrachten_workshops"></a>
