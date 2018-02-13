@@ -118,21 +118,23 @@ Databasenaam: TCH_HAHO_DEL_FULL.bak
 De database restoren met MSSMS. De database opslaan als lokale database.  <br />
 Microsoft SQL Server Management Studio	<br />					
 Version 14.0.17199.0 <br />	
-[Resultaat](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/SQL%20Management%20Studio/SqlManagementStudio.PNG) 
+[MSSMS](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/SQL%20Management%20Studio/SqlManagementStudio.PNG) 
 
 * [x] Connectie Database <br />
 Verbinding maken met de database in de ontwwikkelomgeving. <br />
 Microsoft Visual Studio Community 2017 <br />
 Version 4.7.02556  <br />
-[Resultaat](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/Database.PNG) 
+[Visual Studio](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/Database.PNG) 
 
 [Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqltest.py) vind je een snippet van de verbinding met de database in Visual Studio. 
 
 * [x] Connectie Linqpad 5 <br />
 Verbinding maken met de lokale database.<br />
-Linqpad is een krachtige tool waarmee je heel snel een output ontvangt met SQL en .Net. <br />
+Version 5.26.01  <br />
+
+Linqpad is een tool waarmee je SQL en .Net code kan uitvoeren <br />
 De tijd die Linqpad nodig heeft om een query uit te voeren is veel korten dan Visual Studio. Aangezien er vele queries voor verschillende sensoren uitgevoerd zullen worden is dit een uitermate krachtige en geschikte tool om data op te halen. Bovendien kan de data die opgehaald word direct worden opgelagen in een excel bestand. <br />
-In deze foto
+[Linqpad](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/VoorbeeldLinqpad.PNG) 
 
 [Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Queries%20Database/Ophaalfuncties) vind je de map met een aantal standaard ophaalfuncties voor de database. 
 
