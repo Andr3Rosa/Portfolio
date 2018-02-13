@@ -215,7 +215,7 @@ De plots geven een goed beeld van de data alleen hoe compleet en bruikbaar is he
 |      RuimteTemperatuur     |     25-10-2016 10:56:00      |        7-11-2017 08:36:00       |      True        |
 |      VerlichtingGangzijde     |     31-10-2016 21:08:00      |        7-11-2017 08:36:00       |      True        |
 
-
+Zoals je ziet begint en eindigen de sensoren op een ander tijdstip. Dit is relevenant aangezien je voor de test dataset een volledig bestand wil hebben waarbij alle sensoren op hetzelfde moment beginnen en eindigen. Bovendien mist er ook data, maar wanneer? Met [deze]() query krijgen we precies te zien wanneer je data mist. 
 
 ---
 
