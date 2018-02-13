@@ -19,6 +19,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp) zijn 
  * [Week1](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%201)
    * [Introduction to Python in Datascience](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%201/Intro%20to%20Python%20for%20Data%20Science.PNG)
  * [Week2](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%202)
+   * [Customizing Plots](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%202/Customizing%20Plots.PNG)
  * [Week3](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%203)
  * [Week4](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%204)  
  * [Week5](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%205)
