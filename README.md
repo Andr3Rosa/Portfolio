@@ -146,6 +146,8 @@ Version 5.26.01  <br />
 Nu we data kunnen ophalen is het belangrijk om te weten wat voor data er tot onze beschikking is. Om daarbij te helpen is er een tabel genaamd [punten](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/PuntenLinqpad.PNG) in de database die informatie levert over de sensorren in het gebouw. 
 [Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Tabel_Punten_TCH_HAHO_DEL%20(807).xlsx) vind je het alle data van de tabel punten in een excel bestand.
 
+Als we naar de data kijken dan is het alleen duidelijk om wat voor sensor het hier gaat(luchtkwaliteit in het voorbeeld hieronder) maar niet in welk lokaal hij hangt. Dat is niet af te leiden aan de hand van deze informatie. Daarnaast is de samenstelling van de data bepalend voor de [tabelnaam]().
+
 | Punt_ID    | Project    | Onderstation    | Volgnummer    | Label    | Omschrijving    | 
 | :--------: | :--------: | :-------------: | :-----------: | :------: | :-------------: |
 |      1     |     Haho_del      |        1007        |      5        |    GRFSYS     |       Luchtkwaliteit         |
