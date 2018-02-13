@@ -136,7 +136,7 @@ Version 5.26.01  <br />
 Linqpad is een tool waarmee je SQL en .Net code kan uitvoeren <br />
 De tijd die Linqpad nodig heeft om een query uit te voeren is veel korten dan Visual Studio. Aangezien er vele queries voor verschillende sensoren uitgevoerd zullen worden is dit een uitermate krachtige en geschikte tool om data op te halen. Bovendien kan de data die opgehaald word direct worden opgelagen in een excel bestand. <br />
 
-[Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Queries%20Database/Ophaalfuncties) vind je de map met een aantal standaard ophaalfuncties voor de database. 
+[Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Ophaalfuncties) vind je de map met een aantal standaard queries voor de database. 
 
 
 
