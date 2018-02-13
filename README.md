@@ -186,17 +186,23 @@ Nu kunnen we met de queries data ophalen. Elke tabel in de database bestaat uit 
 | :--------: | :--------: | :-------------: | :-----------: | :------: |
 |      25-10-2016 14:24:00     |     213      |        False        |      False        |    False     |
 
-Systeemtijd: dd/MM/yyyy hh/mm/ss (Datetime) <br />
-Waarde: Integer <br />
-AangevuldeData: Boolean <br />
-DataGemist: Boolean <br />
-IntervalGewijzigd: Boolean <br />
+##### Systeemtijd: dd/MM/yyyy hh/mm/ss (Datetime) <br />
+##### Waarde: Integer <br />
+##### AangevuldeData: Boolean <br />
+##### DataGemist: Boolean <br />
+##### IntervalGewijzigd: Boolean <br />
 
 Om de data te visualiseren is het alleen relevant om de data uit de kolommen 'waarde' en 'systeemtijd' te plotten. De volledige stuk code zie je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqlQuery.py). Het resultaat van de code is een plot van de data. Hier vind je de meeste [plots](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Visualisatie) van alle 8 lokalen.
 
-##### [x] Pandas gebruiken <br />
+Hier onder een aantal voorbeelden:
+  * \. [Intredetemperatuur-1.069](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visualisatie/Lokaal%201.069/Intredetemperatuur-1.069.png)
+  * \. [Luchtdebiet-1.071](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visualisatie/Lokaal%201.071/Luchtdebiet-1.071.png)
+  * \. [Retourtemperatuur-1.074](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visualisatie/Lokaal%201.074/Retourtemperatuur-1.074.png)
 
+
+##### [x] Pandas gebruiken <br />
 ##### [x] Dataframe gebruiken <br />
+##### [x] Data Plotten <br />
 
 
 
