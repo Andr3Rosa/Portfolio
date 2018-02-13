@@ -236,6 +236,7 @@ Op basis van de [geschikte](https://github.com/Andr3Rosa/Portfolio/blob/master/P
 * 5 Evaluate Accuracy
 * 6 Tie it Together
  
+ 
 ---
 
 ## 7. Workshop opdrachten <a name="Opdrachten_workshops"></a>
