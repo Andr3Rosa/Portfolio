@@ -187,10 +187,10 @@ Nu kunnen we met de queries data ophalen. Elke tabel in de database bestaat uit 
 |      25-10-2016 14:24:00     |     213      |        False        |      False        |    False     |
 
 Systeemtijd: dd/MM/yyyy hh/mm/ss (Datetime) <br />
-Waarde: Integer <br />
-AangevuldeData: Boolean <br />
-DataGemist: Boolean <br />
-IntervalGewijzigd: Boolean <br />
+Waarde: 213 (Integer) <br />
+AangevuldeData: False (Boolean) <br />
+DataGemist: False (Boolean) <br />
+IntervalGewijzigd: False (Boolean) <br />
 
 Om de data te visualiseren is het alleen relevant om de data uit de kolommen 'waarde' en 'systeemtijd' te plotten. De volledige stuk code zie je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqlQuery.py). Het resultaat van de code is een plot van de data. Hier vind je de meeste [plots](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Visualisatie) van alle 8 lokalen. Hieronder zie je als voorbeeld een plot van de Retourtemperatuur uit lokaal 1.074.
 
