@@ -112,6 +112,7 @@ Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwe database (augu
 Het bestand is 500 mb groot en om veiligheidsredenen plaats ik het bestand niet op GitHub. 
 Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
+
 ### Database <br />
 Databasenaam: TCH_HAHO_DEL_FULL.bak
 
@@ -173,6 +174,7 @@ Aangezien het bestand hier boven uit meer dan 700 sensoren bestand, is het de be
 |      1.075     |     7     |
 
 De volgende stap is om nu de data op te halen per lokaal en deze op te slaan. Dat is gedaan door de naam van de sensor te nemen en daar een unieke query voor te schrijven. De data word direct op ASCENDING ORDER uit de database gehaald. Hierdoor heb je direct een chronologische volgorde van tijd. Er zijn dus in totaal [135 unieke queries](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Queries) voor bovenstaande test set. Aan de hand van deze SQL queries kunnen we dus nu de data ophalen die nodig is voor onze 8 lokalen. 
+
 
 ### Data Visualisatie  <br />
 
