@@ -99,12 +99,12 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) z
 ---
 
 ## 6. Project <a name="Project"></a>
-Introductie
-* Het behalen van optimaal gedrag in een complex systeem is één van de meest verlangde features van een hedendaags systeem. Vooral als het gaat energie efficientie en betrouwbare prestaties. Het behalen van optimaal gedrag heeft alles te maken met de uitdagingen die een complex systeem met zich mee brengen. Door welk model het systeem ook gedreven word, het moet in staat zijn om te reageren op onverwachte omstandigheden. Een model wat in staat is om ruis en fouten te detecteren is een Bayesian Belief Network(BBN). 
+##### Introductie <br />
+Het behalen van optimaal gedrag in een complex systeem is één van de meest verlangde features van een hedendaags systeem. Vooral als het gaat energie efficientie en betrouwbare prestaties. Het behalen van optimaal gedrag heeft alles te maken met de uitdagingen die een complex systeem met zich mee brengen. Door welk model het systeem ook gedreven word, het moet in staat zijn om te reageren op onverwachte omstandigheden. Een model wat in staat is om ruis en fouten te detecteren is een Bayesian Belief Network(BBN). 
 
-* Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
+Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
 
-* Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen wat in staat is om diagnoses en voorspellingen uit te voeren 
+Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen wat in staat is om diagnoses en voorspellingen uit te voeren 
 met de nieuwe database van de Haagese Hogeschool in Delft.
 
 
@@ -114,26 +114,41 @@ Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
 Databasenaam: TCH_HAHO_DEL_FULL.bak
 
-* [x] Restoren Database <br />
+Om te beginnen zullen we eerst het de database moeten restoren aan de hand van de backup. Dit doen we met Microsoft SQL Server Management Studio
+
+##### * [x] Restoren Database <br />
 De database restoren met MSSMS. De database opslaan als lokale database.  <br />
 Microsoft SQL Server Management Studio	<br />					
 Version 14.0.17199.0 <br />	
-[Resultaat]() 
+[MSSMS](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/SQL%20Management%20Studio/SqlManagementStudio.PNG) 
 
-* [x] Connectie Database <br />
+Wanneer de database eenmaal restored is kunnen we een verbinding maken in Visual Studio
+
+##### * [x] Connectie Database <br />
 Verbinding maken met de database in de ontwwikkelomgeving. <br />
 Microsoft Visual Studio Community 2017 <br />
-Version 4.7.02556
+Version 4.7.02556  <br />
+[Visual Studio](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/Database.PNG) 
 
 [Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqltest.py) vind je een snippet van de verbinding met de database in Visual Studio. 
 
-* [x] Connectie Linqpad 5 <br />
+In Visual Studio kost het aanzienlijk veel tijd om een project uit te voeren en daarmee data op te halen. Daarom is er gekozen om dit in een apparte tool te doen.<br />
+Linqpad is een tool waarmee je SQL en .Net code kan uitvoeren <br />
+De tijd die Linqpad nodig heeft om een query uit te voeren is veel korten dan Visual Studio. Aangezien er vele queries voor verschillende sensoren uitgevoerd zullen worden is dit een uitermate krachtige en geschikte tool om data op te halen. Bovendien kan de data die opgehaald word direct worden opgelagen in een excel bestand. <br />
+
+##### * [x] Connectie Linqpad 5 <br />
 Verbinding maken met de lokale database.<br />
-Linqpad is een krachtige tool waarmee je heel snel een output ontvangt met SQL en .Net. <br />
+Version 5.26.01  <br />
+[Linqpad](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/VoorbeeldLinqpad.PNG) 
 
-[Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Queries%20Database/Ophaalfuncties) vind je de map met een aantal standaard ophaalfuncties voor de database. 
+[Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Ophaalfuncties) vind je de standaard queries voor de database. 
 
+Nu we data kunnen ophalen is het belangrijk om te weten wat voor data er tot onze beschikking is. Om daarbij te helpen is er een tabel genaamd [punten] in de database die informatie levert over de sensorren in het gebouw. 
+[Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Tabel_Punten_TCH_HAHO_DEL%20(807).xlsx) vind je het alle data van de tabel punten in een excel bestand.
 
+| Punt_ID    | Project    | Onderstation    | Volgnummer    | Label    | Omschrijving    | 
+| :--------: | :--------: | :-------------: | :-----------: | :------: | :-------------: |
+|      1     |     Haho_del      |        1007        |      5        |    GRFSYS     |       Luchtkwaliteit         |
 
 ---
 
