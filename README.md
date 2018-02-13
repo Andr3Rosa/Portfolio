@@ -153,9 +153,13 @@ Als we naar de data kijken dan is het alleen duidelijk om wat voor soort sensor 
 
 | Punt_ID    | Project    | Onderstation    | Volgnummer    | Label    | Omschrijving    | 
 | :--------: | :--------: | :-------------: | :-----------: | :------: | :-------------: |
-|      1     |     Haho_del      |        1007        |      5        |    GRFSYS     |       Luchtkwaliteit         |
+|      1     |     Haho_del      |        1007        |      5        |    GRFSYS     |       Luchtkwaliteit         | 
 
-Op dit punt heb ik Jan-Dirk gevraagd of hij een lijst kon opvragen bij de huidige systeembeheerders met de lokaalnamen per sensor. Deze hebben 
+Op dit punt heb ik Jan-Dirk gevraagd of hij een lijst kon opvragen bij de huidige systeembeheerders met de lokaalnamen per sensor. Deze hebben zij gelukkig kunnen leveren. Het volledige bestand vind je hier []
+
+
+
+
 ---
 
 ## 7. Workshop opdrachten <a name="Opdrachten_workshops"></a>
