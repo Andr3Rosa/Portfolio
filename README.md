@@ -173,7 +173,7 @@ Aangezien het bestand hier boven uit meer dan 700 sensoren bestand, is het de be
 |      1.074     |     30     |
 |      1.075     |     7     |
 
-De volgende stap is om nu de data op te halen per lokaal en deze op te slaan. Dat is gedaan door de naam van de sensor te nemen en daar een unieke query voor te schrijven. De data word op ASCENDING ORDER van de Systeemtijd uit de database gehaald. Hierdoor heb je direct een chronologische volgorde van tijd. Er zijn dus in totaal [135 unieke queries](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Queries) aan de hand van deze SQL queries kunnen we dus nu de data ophalen die nodig is voor onze 8 lokalen. 
+De volgende stap is om nu de data op te halen per lokaal en deze op te slaan. Dat is gedaan door de naam van de sensor te nemen en daar een unieke query voor te schrijven. De data word op ASCENDING ORDER van de Systeemtijd uit de database gehaald. Hierdoor heb je direct een chronologische volgorde van tijd. Er zijn dus in totaal [135 unieke queries](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Queries). Aan de hand van deze SQL queries kunnen we nu de data ophalen van de 8 lokalen. 
 
 
 ### Data Visualisatie  <br />
