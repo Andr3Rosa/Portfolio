@@ -178,7 +178,17 @@ De volgende stap is om nu de data op te halen per lokaal en deze op te slaan. Da
 
 ### Data Visualisatie  <br />
 
-Dit is allemaal leuk en aardig, maar hoe ziet de data er eigenlijk uit, wat verteld het ons? Daarvoor heb ik ervoor gekozen om aan de hand van Python code de data te visualiseren in Visual Studio. Daarvoor moet je wel eerst het volgende [installeren](https://www.visualstudio.com/vs/python/)
+Dit is allemaal leuk en aardig, maar hoe ziet de data er eigenlijk uit, wat verteld het ons? Daarvoor heb ik ervoor gekozen om aan de hand van Python code de data te visualiseren in Visual Studio. Daarvoor moet je wel het volgende [installeren](https://www.visualstudio.com/vs/python/)
+
+Nu kunnen we met de queries data ophalen. Elke tabel in de database bestaat uit 5 kolommen. Zie voorbeeld hieronder. 
+
+| Systeemtijd    | Waarde    | AangevuldeData    | DataGemist    | IntervalGewijzigd    |
+| :--------: | :--------: | :-------------: | :-----------: | :------: |
+|      25-10-2016 14:24:00     |     213      |        False        |      False        |    False     |
+
+##### [x] Pandas gebruiken <br />
+
+##### [x] Dataframe gebruiken <br />
 
 
 
