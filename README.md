@@ -100,11 +100,11 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) z
 
 ## 6. Project <a name="Project"></a>
 Introductie
-* Het behalen van optimaal gedrag in een complex systeem is één van de meest verlangde features van een hedendaags systeem. Vooral als het gaat energie efficientie en betrouwbare prestaties. Het behalen van optimaal gedrag heeft alles te maken met de uitdagingen die een complex systeem met zich mee brengen. Door welk model het systeem ook gedreven word, het moet in staat zijn om te reageren op onverwachte omstandigheden. Een model wat in staat is om ruis en fouten te detecteren is een Bayesian Belief Network(BBN). 
+Het behalen van optimaal gedrag in een complex systeem is één van de meest verlangde features van een hedendaags systeem. Vooral als het gaat energie efficientie en betrouwbare prestaties. Het behalen van optimaal gedrag heeft alles te maken met de uitdagingen die een complex systeem met zich mee brengen. Door welk model het systeem ook gedreven word, het moet in staat zijn om te reageren op onverwachte omstandigheden. Een model wat in staat is om ruis en fouten te detecteren is een Bayesian Belief Network(BBN). 
 
-* Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
+Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
 
-* Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen wat in staat is om diagnoses en voorspellingen uit te voeren 
+Mijn doel tijdens dit project is om een Bayesian Belief Network te bouwen wat in staat is om diagnoses en voorspellingen uit te voeren 
 met de nieuwe database van de Haagese Hogeschool in Delft.
 
 
@@ -141,8 +141,10 @@ Verbinding maken met de lokale database.<br />
 Version 5.26.01  <br />
 [Linqpad](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/VoorbeeldLinqpad.PNG) 
 
-[Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Ophaalfuncties) vind je de map met een aantal standaard queries voor de database. 
+[Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Ophaalfuncties) vind je de standaard queries voor de database. 
 
+Nu we data kunnen ophalen is het belangrijk om te weten wat voor data er tot onze beschikking is. Om daarbij te helpen is er een tabel genaamd [punten] in de database die informatie levert over de sensorren in het gebouw. 
+[Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Tabel_Punten_TCH_HAHO_DEL%20(807).xlsx) vind je het alle punten in een excel bestand.
 
 
 ---
