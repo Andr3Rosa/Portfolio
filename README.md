@@ -99,7 +99,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) z
 ---
 
 ## 6. Project <a name="Project"></a>
-#### Introductie <br />
+### Introductie <br />
 Het behalen van optimaal gedrag in een complex systeem is één van de meest verlangde features van een hedendaags systeem. Vooral als het gaat energie efficientie en betrouwbare prestaties. Het behalen van optimaal gedrag heeft alles te maken met de uitdagingen die een complex systeem met zich mee brengen. Door welk model het systeem ook gedreven word, het moet in staat zijn om te reageren op onverwachte omstandigheden. Een model wat in staat is om ruis en fouten te detecteren is een Bayesian Belief Network(BBN). 
 
 Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
@@ -112,7 +112,7 @@ Van de Haagse Hogeschool heb ik een kopie ontvangen van de nieuwe database (augu
 Het bestand is 500 mb groot en om veiligheidsredenen plaats ik het bestand niet op GitHub. 
 Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
-#### Database <br />
+### Database <br />
 Databasenaam: TCH_HAHO_DEL_FULL.bak
 
 Om te beginnen zullen we eerst het de database moeten restoren aan de hand van de backup. Dit doen we met Microsoft SQL Server Management Studio
@@ -145,7 +145,7 @@ Version 5.26.01  <br />
 [Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Ophaalfuncties) vind je de standaard queries voor de database. 
 
 
-#### Data  <br />
+### Exploratory data analysis  <br />
 Nu we data kunnen ophalen is het belangrijk om te weten wat voor data er tot onze beschikking is. Om daarbij te helpen is er een tabel genaamd [punten](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/PuntenLinqpad.PNG) in de database die informatie levert over de sensorren in het gebouw. 
 [Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Tabel_Punten_TCH_HAHO_DEL%20(807).xlsx) vind je het alle data van de tabel punten in een excel bestand.
 
