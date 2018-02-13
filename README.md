@@ -26,9 +26,16 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp) zijn 
    * [Pandas Foundation 1](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%203/Pandas%20Foundation1.PNG)
    * [Pandas Foundation 2](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%203/Pandas%20Foundation2.PNG)
    * [Writing your own functions](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%203/Writing%20your%20own%20functions.PNG)
- * [Week4](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%204)  
+ * [Week4](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%204)
+   * [Plotting 2D arrays](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%204/Plotting%202D%20arrays.PNG)
+   * [Statistical plots with Seaborn](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%204/Statistical%20plots%20with%20Seaborn.PNG)
+   * [Using iterators in PythonLand](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%204/Using%20iterators%20in%20PythonLand.PNG)
+   * [List comprehensions and generators](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%204/List%20comprehensions%20and%20generators.PNG)
  * [Week5](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%205)
- * [Week6](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%206)  
+   * [Cleaning Data](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%205/Cleaning%20Data.PNG)
+ * [Week6](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%206) 
+   * [Statistical Thinking](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%206/Statistical%20Thinking.PNG)
+   * [Supervised Learning with scikit-learn](https://github.com/Andr3Rosa/Portfolio/blob/master/Datacamp/Week%206/Supervised%20Learning%20with%20scikit-learn.PNG)
 ## 2. Coursera <a name="Coursera"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera) zijn alle resultaten van Coursera te vinden.
   * [Week1](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera/Week%201)
