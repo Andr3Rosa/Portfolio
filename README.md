@@ -217,8 +217,12 @@ De plots geven een goed beeld van de data alleen hoe compleet en bruikbaar is he
 
 Zoals je ziet begint en eindigen de sensoren op een ander tijdstip. Dit is relevenant aangezien je voor de test dataset een volledig bestand wil hebben waarbij alle sensoren op hetzelfde moment beginnen en eindigen. Bovendien mist er ook data, maar wanneer? Met [deze](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/Queries/Ophaalfuncties/DataGemist.linq) query krijgen we precies te zien wanneer je data mist. 
 
-* \ Woensdag 16/11/2016 TM Zondag 20/11/2016 <br />
-* \ Dinsdag 21/02/2017 TM Zondag 26/02/2017
+* Woensdag 16/11/2016 TM Zondag 20/11/2016 <br />
+* Dinsdag 21/02/2017 TM Zondag 26/02/2017
+
+Met deze data weet je in alle gevallen (9 sensoren in dit voorbeeld) dat er beschikbare data is vanaf maandag 07/11/2016 tot en met zondag 05/11/2016. De gemiste data is voor de test data niet relevant, aangezien een BBN model overweg kan met gemiste data in een data set. 
+
+Op basis van de geschikte data periode kunnen we nu data ophalen. 
 
 ---
 
