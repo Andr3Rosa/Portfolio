@@ -1,5 +1,5 @@
 # Portfolio
-De Portfolio van Andre Rosa voor Applied Data Science
+De Portfolio van Andre Rosa van de minor Applied Data Science.
 
 ## Structuur
 * 1\. [DataCamp](#DataCamp)  
