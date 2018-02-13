@@ -114,11 +114,15 @@ Het gaat om een SQL database die ruim een jaar aan sensor data bevat.
 
 Databasenaam: TCH_HAHO_DEL_FULL.bak
 
+Om te beginnen zullen we eerst het de database moeten restoren aan de hand van de backup. Dit doen we met Microsoft SQL Server Management Studio
+
 * [x] Restoren Database <br />
 De database restoren met MSSMS. De database opslaan als lokale database.  <br />
 Microsoft SQL Server Management Studio	<br />					
 Version 14.0.17199.0 <br />	
 [MSSMS](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/SQL%20Management%20Studio/SqlManagementStudio.PNG) 
+
+Wanneer de database eenmaal restored is kunnen we een verbinding maken in Visual Studio
 
 * [x] Connectie Database <br />
 Verbinding maken met de database in de ontwwikkelomgeving. <br />
@@ -128,13 +132,14 @@ Version 4.7.02556  <br />
 
 [Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/sqltest.py) vind je een snippet van de verbinding met de database in Visual Studio. 
 
+In Visual Studio kost het aanzienlijk veel tijd om een project uit te voeren en daarmee data op te halen. Daarom is er gekozen om dit in een apparte tool te doen.<br />
+Linqpad is een tool waarmee je SQL en .Net code kan uitvoeren <br />
+De tijd die Linqpad nodig heeft om een query uit te voeren is veel korten dan Visual Studio. Aangezien er vele queries voor verschillende sensoren uitgevoerd zullen worden is dit een uitermate krachtige en geschikte tool om data op te halen. Bovendien kan de data die opgehaald word direct worden opgelagen in een excel bestand. <br />
+
 * [x] Connectie Linqpad 5 <br />
 Verbinding maken met de lokale database.<br />
 Version 5.26.01  <br />
 [Linqpad](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/VoorbeeldLinqpad.PNG) 
-
-Linqpad is een tool waarmee je SQL en .Net code kan uitvoeren <br />
-De tijd die Linqpad nodig heeft om een query uit te voeren is veel korten dan Visual Studio. Aangezien er vele queries voor verschillende sensoren uitgevoerd zullen worden is dit een uitermate krachtige en geschikte tool om data op te halen. Bovendien kan de data die opgehaald word direct worden opgelagen in een excel bestand. <br />
 
 [Hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Ophaalfuncties) vind je de map met een aantal standaard queries voor de database. 
 
