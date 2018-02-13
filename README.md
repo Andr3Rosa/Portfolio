@@ -226,6 +226,7 @@ Op basis van de [geschikte](https://github.com/Andr3Rosa/Portfolio/blob/master/P
 ![Compleet 1.062](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Test%20Lokalen/Lokaal%201.062/DataSet1.062.PNG)
 
  ### Bayesian in Python  <br />
+ In het [boek](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/) Machine Learning Algorithms From Scratch word uitgelegd hoe je een Bayesian Classifier Model kan maken aan de hand van Python code. Dit model gebruikt als voorbeeld een CSV bestand waarmee voorspelt of een patient diabetes heeft of niet. Het CSV bestand bestaat enkel uit numerieke waardes en je kan je vinden op deze [pagina](https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data) Het heeft veel overeenkomsten met onze dataset.
  
 ---
 
