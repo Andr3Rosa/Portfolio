@@ -225,6 +225,7 @@ Met deze data weet je in alle gevallen (9 sensoren in dit voorbeeld) dat er besc
 Op basis van de [geschikte](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/Queries/Ophaalfuncties/Ophalen_Between_Sensor.linq) periode kunnen we nu data ophalen per sensor. De data vind je [hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Data/Test%20Lokalen). Vanwege tijdgebrek is het alleen gelukt om alle data in 1 tabel te stoppen van lokaal 1.062 en lokaal 1.064. Van elke sensor is alleen de data van de kolom 'waarde' meegenomen. [Het](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Test%20Lokalen/Lokaal%201.062/Compleet%201.062.xlsx) bestand vind je hier.
 ![Compleet 1.062](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Test%20Lokalen/Lokaal%201.062/DataSet1.062.PNG)
 
+ ### Bayesian in Python  <br />
  
 ---
 
