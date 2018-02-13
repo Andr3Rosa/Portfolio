@@ -173,12 +173,12 @@ Aangezien het bestand hier boven uit meer dan 700 sensoren bestand, is het de be
 |      1.074     |     30     |
 |      1.075     |     7     |
 
-De volgende stap is om nu de data op te halen per lokaal en deze op te slaan. Dat is gedaan door de naam van de sensor te nemen en daar een unieke query voor te schrijven. De data word direct op ASCENDING ORDER uit de database gehaald. Hierdoor heb je direct een chronologische volgorde van tijd. Er zijn dus in totaal [135 unieke queries](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Linqpad/Queries) voor bovenstaande test set. Aan de hand van deze SQL queries kunnen we dus nu de data ophalen die nodig is voor onze 8 lokalen. 
+De volgende stap is om nu de data op te halen per lokaal en deze op te slaan. Dat is gedaan door de naam van de sensor te nemen en daar een unieke query voor te schrijven. De data word direct op ASCENDING ORDER uit de database gehaald. Hierdoor heb je direct een chronologische volgorde van tijd. Er zijn dus in totaal [135 unieke queries]aan de hand van deze SQL queries kunnen we dus nu de data ophalen die nodig is voor onze 8 lokalen. 
 
 
 ### Data Visualisatie  <br />
 
-Dit is allemaal leuk en aardig, maar hoe ziet de data er eigenlijk uit, wat verteld het ons? Daarvoor heb ik ervoor gekozen om aan de hand van Python code de data te visualiseren met Visual Studio. In Visual 
+Dit is allemaal leuk en aardig, maar hoe ziet de data er eigenlijk uit, wat verteld het ons? Daarvoor heb ik ervoor gekozen om aan de hand van Python code de data te visualiseren in Visual Studio. Daarvoor moet je wel eerst het volgende [installeren](https://www.visualstudio.com/vs/python/)
 
 
 
