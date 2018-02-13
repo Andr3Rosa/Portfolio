@@ -124,7 +124,7 @@ Version 14.0.17199.0 <br />
 
 Wanneer de database eenmaal restored is kunnen we een verbinding maken in Visual Studio
 
-* [x] Connectie Database <br />
+##### * [x] Connectie Database <br />
 Verbinding maken met de database in de ontwwikkelomgeving. <br />
 Microsoft Visual Studio Community 2017 <br />
 Version 4.7.02556  <br />
