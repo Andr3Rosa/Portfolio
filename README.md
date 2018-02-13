@@ -99,7 +99,7 @@ In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Presentaties) z
 ---
 
 ## 6. Project <a name="Project"></a>
-Introductie
+##### Introductie <br />
 Het behalen van optimaal gedrag in een complex systeem is één van de meest verlangde features van een hedendaags systeem. Vooral als het gaat energie efficientie en betrouwbare prestaties. Het behalen van optimaal gedrag heeft alles te maken met de uitdagingen die een complex systeem met zich mee brengen. Door welk model het systeem ook gedreven word, het moet in staat zijn om te reageren op onverwachte omstandigheden. Een model wat in staat is om ruis en fouten te detecteren is een Bayesian Belief Network(BBN). 
 
 Het Bayesians Model bestaat uit onafhankelijkheden en waarschijnlijkheden: hoe groot is de kans dat variable Y waar is indien X waar is. Elke variable is zijn eigen knooppunt waarbij je deze allemaal kan combineren om te bepalen wat het gedrag is als je deze punten combineerd. Het geeft je een goede indicatie wat er waarschijnlijk aan de hand is. 
@@ -146,6 +146,9 @@ Version 5.26.01  <br />
 Nu we data kunnen ophalen is het belangrijk om te weten wat voor data er tot onze beschikking is. Om daarbij te helpen is er een tabel genaamd [punten] in de database die informatie levert over de sensorren in het gebouw. 
 [Hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Tabel_Punten_TCH_HAHO_DEL%20(807).xlsx) vind je het alle punten in een excel bestand.
 
+| Punt_ID    | Project    | Onderstation    | Volgnummer    | Label    | Omschrijving    | 
+| :--------: | :--------: | :-------------: | :-----------: | :------: | :-------------: |
+|      1     |     2      |        3        |      4        |    5     |       6         |
 
 ---
 
