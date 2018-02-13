@@ -22,7 +22,7 @@ SELECT [Systeemtijd]
   FROM [dbo].[Haho_del_OS1001_GRFSYS_100]
 
 
-WHERE Systeemtijd BETWEEN '2016-11-24' AND '2016-11-26'
+WHERE Systeemtijd BETWEEN '2016-11-07' AND '2017-11-05'
   
   
 GO
