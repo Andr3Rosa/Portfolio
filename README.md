@@ -18,7 +18,10 @@ De Portfolio van Andre Rosa voor Applied Data Science
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp) zijn alle resultaten van Datacamp te vinden.
   * [Week1](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%201)
   * [Week2](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%202)
-  
+  * [Week3](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%203)
+  * [Week4](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%204)  
+  * [Week5](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%205)
+  * [Week6](https://github.com/Andr3Rosa/Portfolio/tree/master/Datacamp/Week%206)  
 ## 2. Coursera <a name="Coursera"></a>
 In [deze map](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera) zijn alle resultaten van Coursera te vinden.
   * [Week1](https://github.com/Andr3Rosa/Portfolio/tree/master/Coursera/Week%201)
