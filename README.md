@@ -155,8 +155,8 @@ Als we naar de data kijken dan is het alleen duidelijk om wat voor soort sensor 
 | :--------: | :--------: | :-------------: | :-----------: | :------: | :-------------: |
 |      1     |     Haho_del      |        1007        |      5        |    GRFSYS     |       Luchtkwaliteit         | 
 
-Op dit punt heb ik Jan-Dirk gevraagd of hij een lijst kon opvragen bij de huidige systeembeheerders met de lokaalnamen per sensor. Deze hebben zij gelukkig kunnen leveren. Het volledige bestand vind je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Priva%20Datapunten%20Alle%20Lokalen.xlsx) <br /> 
-Op dit moment kunnen we dus data ophalen en weten we welke tabelnaam bij welke sensor hoort, en welke sensor bij welk lokaal. Met Jan-Dirk is afgesproken dat ik 8 lokalen selecteer die gebruikt zullen worden als test data. De reden hierachter is dat deze lokalen extra sensorren hebben gekregen, dus er is extra informatie beschikbaar waarmee wellicht problemen aan het licht kunnen komen. 
+Op dit punt heb ik Jan-Dirk gevraagd of hij een lijst kon opvragen bij de huidige systeembeheerders met de lokaalnamen per sensor. Het volledige bestand vind je [hier](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Data/Priva%20Datapunten%20Alle%20Lokalen.xlsx). <br /> 
+Op dit moment kunnen we dus data ophalen en weten we welke tabelnaam bij welke sensor hoort, en welke sensor bij welk lokaal. Met Jan-Dirk is afgesproken dat ik 8 lokalen selecteer die gebruikt zullen worden als test-data. De reden hierachter is dat deze lokalen extra sensorren hebben gekregen, dus er is extra informatie beschikbaar waarmee wellicht problemen aan het licht kunnen komen. 
 
 ---
 
