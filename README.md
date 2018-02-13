@@ -236,6 +236,7 @@ Op basis van de [geschikte](https://github.com/Andr3Rosa/Portfolio/blob/master/P
 * 5 Evaluate Accuracy
 * 6 Tie it Together
  
+Helaas is het vanwege tijdgebrek niet gelukt om het [model](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Visual%20Studio/BBN.py) werkend te krijgen. Indien er genoeg tijd was geweest had ik eerst met een andere tool (zoals Data Analysis in Excel) berekend wat de Mean en Standard Deviation zijn. Dit geeft vervolgens een beeld of de stuk code in Python klopt. Vervolgens kan je probabilities gaan uitrekenen en uiteindelijk voorspellingen gaan maken. 
  
 ---
 
