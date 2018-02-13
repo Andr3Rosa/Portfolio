@@ -222,7 +222,7 @@ Zoals je ziet begint en eindigen de sensoren op een ander tijdstip. Dit is relev
 
 Met deze data weet je in alle gevallen (9 sensoren in dit voorbeeld) dat er beschikbare data is vanaf maandag 07/11/2016 tot en met zondag 05/11/2017. De gemiste data is voor de test data niet relevant, aangezien een BBN model overweg kan met gemiste data in een data set. 
 
-Op basis van de [geschikte](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/Queries/Ophaalfuncties/Ophalen_Between_Sensor.linq) periode kunnen we nu data ophalen per sensor. De data vind je [hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Data/Test%20Lokalen)
+Op basis van de [geschikte](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/Queries/Ophaalfuncties/Ophalen_Between_Sensor.linq) periode kunnen we nu data ophalen per sensor. De data vind je [hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Data/Test%20Lokalen). Vanwege tijdgebrek is het alleen gelukt om alle data in 1 tabel te stoppen van lokaal 1.062 en lokaal 1.064.
  
 ---
 
