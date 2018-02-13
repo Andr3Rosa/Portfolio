@@ -220,10 +220,10 @@ Zoals je ziet begint en eindigen de sensoren op een ander tijdstip. Dit is relev
 * Woensdag 16/11/2016 TM Zondag 20/11/2016 <br />
 * Dinsdag 21/02/2017 TM Zondag 26/02/2017
 
-Met deze data weet je in alle gevallen (9 sensoren in dit voorbeeld) dat er beschikbare data is vanaf maandag 07/11/2016 tot en met zondag 05/11/2016. De gemiste data is voor de test data niet relevant, aangezien een BBN model overweg kan met gemiste data in een data set. 
+Met deze data weet je in alle gevallen (9 sensoren in dit voorbeeld) dat er beschikbare data is vanaf maandag 07/11/2016 tot en met zondag 05/11/2017. De gemiste data is voor de test data niet relevant, aangezien een BBN model overweg kan met gemiste data in een data set. 
 
-Op basis van de geschikte data periode kunnen we nu data ophalen. 
-
+Op basis van de [geschikte](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/Queries/Ophaalfuncties/Ophalen_Between_Sensor.linq) periode kunnen we nu data ophalen per sensor. De data vind je [hier](https://github.com/Andr3Rosa/Portfolio/tree/master/Project/Data/Test%20Lokalen)
+ 
 ---
 
 ## 7. Workshop opdrachten <a name="Opdrachten_workshops"></a>
