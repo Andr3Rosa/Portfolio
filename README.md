@@ -217,7 +217,7 @@ De plots geven een goed beeld van de data alleen hoe compleet en bruikbaar is he
 
 Zoals je ziet begint en eindigen de sensoren op een ander tijdstip. Dit is relevenant aangezien je voor de test dataset een volledig bestand wil hebben waarbij alle sensoren op hetzelfde moment beginnen en eindigen. Bovendien mist er ook data, maar wanneer? Met [deze](https://github.com/Andr3Rosa/Portfolio/blob/master/Project/Linqpad/Queries/Ophaalfuncties/DataGemist.linq) query krijgen we precies te zien wanneer je data mist. 
 
-Dat zijn op 2 momenten:
+Kortsamengevat is dat op 2 momenten: <br />
 Woensdag 16/11/2016 TM Zondag 20/11/2016 <br />
 Dinsdag 21/02/2017 TM Zondag 26/02/2017
 
